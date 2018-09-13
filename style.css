@@ -85,3 +85,15 @@ body {
 footer {
   padding: 2.2rem;
 }
+
+.fa-js-square {
+  color: yellow;
+}
+
+.fa-react {
+  color: lightblue;
+}
+
+.fa-node-js {
+  color: green;
+}
